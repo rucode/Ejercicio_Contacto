@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mi Contacto</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion">Descripcion Contacto</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="fecha">01/01/1900</string>
+    <string name="btnFechaCumple">Fecha</string>
+    <string name="btnContinuar">Siguiente</string>
+    <string name="lblTituloDetalle">Confirmar Datos</string>
+    <string name="lblNombre_campo">Nombre</string>
+    <string name="lblNombre">Pablo Cardozo</string>
+    <string name="lblFecha_campo">Fecha Nacimiento</string>
+    <string name="lblFecha">01/01/1900</string>
+    <string name="lblEmail_campo">Email</string>
+    <string name="lblEmail">algo@gmail.com</string>
+    <string name="lblTelefono_campo">Telefono</string>
+    <string name="lblTelefono">000000000</string>
+    <string name="lblDescripcion_campo">Descripcion</string>
+    <string name="lblDescripcion">Lo conoci en... ñalsfdk añslfdkj añlskdf sdakla sdf asdlkajsdflaks asldfkaj dfalsdkjf lsdfks sldfk sldkfslfk  sdf s.</string>
+    <string name="btnEditarDatos">Editar Datos</string>
+</resources>
